@@ -206,4 +206,4 @@
   function updatePaginationStatus(pageNum) {
     pagination.children[pageNum].classList.toggle('active')
   }
-})()
+})() 

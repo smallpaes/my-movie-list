@@ -13,3 +13,7 @@ type the title of the movies in search bar
 In index page, press the `+` button on the movie to keep it into favorite list.
 You can checkout the favorite list in `favorite.html`
 press `x` to remove it from favorite list
+
+## Website Display
+ [GitHub page](https://smallpaes.github.io/my-movie-list/)
+ ![image](https://drive.google.com/uc?export=view&id=1Ol_IEz0btgo4NutnDKO0MvdXvIBGq7Vh)
